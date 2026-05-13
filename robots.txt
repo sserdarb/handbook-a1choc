@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sserdarb.github.io/handbook-a1choc/sitemap.xml
